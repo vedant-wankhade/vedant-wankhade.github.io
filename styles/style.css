@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#logo-image {
+    border: 2px solid green;
+    float: left;
+    width: 10%;
+    height: 100%;
+    margin-top: -2%;
+    margin-bottom: -2%;
+    /*display: inline-block;*/
+}
+
+#logo {
+    border: 2px solid red;
+    font-size: x-large;
+    color: #57A79B;
+    /*display: inline-block;*/
+    float: left;
+    font-family: 'Oswald', sans-serif;;
+}
+
+#nav-list {
+    border: 2px solid red;
+    margin-right: 2%;
+    margin-left: 50%;
+    display: inline-block;
+    margin-top: 0;
+    list-style-type: none;
+    padding: 2%;
+    width: 20%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#nav-list li {
+    border: 2px solid green;
+    display: inline-block;
+}
